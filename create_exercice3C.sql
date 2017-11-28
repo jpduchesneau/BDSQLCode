@@ -1,4 +1,7 @@
-
+-- Cours Base de données 420-419-SF FC Cégep Ste-Foy
+-- Auteur Jean-Pierre Duchesneau
+-- Code SQL de l'exercice 3c
+-- =======================================================================
 CREATE DATABASE Exercice3C;
 USE Exercice3C;
 
