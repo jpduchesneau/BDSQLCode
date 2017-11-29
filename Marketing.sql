@@ -1,6 +1,7 @@
 -- Cours Base de données 420-419-SF FC Cégep Ste-Foy
 -- Auteur Jean-Pierre Duchesneau
 -- Code SQL de la base de données Marketing
+-- Dernière modification 2017-11-29
 -- =======================================================================
 
 CREATE DATABASE  IF NOT EXISTS `marketing` /*!40100 DEFAULT CHARACTER SET latin1 */;
